@@ -1,1 +1,5 @@
-print("Hello, GitHub")
+#include <iostream>
+
+int main(){
+	std::cout<<"Hello, GitHub"<<std::endl;
+}
